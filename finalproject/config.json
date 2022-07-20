@@ -1,0 +1,10 @@
+{
+  "threshold_face": 0.1,
+  "camera": 0,
+  "threshold_mask": 0.8,
+  "cpu_face": false,
+  "cpu_mask": false,
+  "models_path": "models",
+  "hardware_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluMSIsInR5cGUiOiJIQVJEV0FSRSIsImlhdCI6MTY1MzkyNzk0M30.atR5t5gi37JKyNgIqBQQD9d77quhYaMH3dCHu_51hx4",
+  "server_url": "https://tauhoo.dev"
+}
